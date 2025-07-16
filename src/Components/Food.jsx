@@ -63,7 +63,7 @@ const Food = () => {
               PULLED <br /> PORK <br /> TACOS
             </h2>
             <p className="text-lg mb-4">
-              Enjoy every bite of this delicious spicy pulled pork tacos.
+              Enjoy every bite of this delicious spicy pulled pork tacos
             </p>
             <Link to="/PulledPork">
               <button
